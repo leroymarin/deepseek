@@ -1,0 +1,2 @@
+Set-Location "C:\Users\HUAWEI\Desktop\englishscool-scripts"
+python es_video.py --force lesson/question-tags-the-tune-decides lesson/understatement-in-senior-meetings reference/learned-words-whose-spelling-hides-the-sound reference/place-names-not-said-as-written practice/reading-the-strength-of-a-soft-objection practice/say-the-place-name dialogue/speaking-exam-defending-a-view-under-questioning dialogue/hearing-a-quiet-no-from-a-senior-colleague word/having-a-lot-to-do word/weak-and-unlikely-to-survive-examination *> rerender.log

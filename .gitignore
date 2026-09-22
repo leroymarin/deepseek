@@ -1,0 +1,11 @@
+# Generated output
+videos/
+tmp/
+qa/
+__pycache__/
+
+# Logs and state
+*.log
+render-state.json
+rerender-qa.log
+r2-upload.log
